@@ -1,0 +1,240 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 2332
+D OTP EPROM 512 KiBit
+K OTP EPROM 512KiBit
+F http://ww1.microchip.com/downloads/en/DeviceDoc/doc0015.pdf
+$ENDCMP
+#
+$CMP 2332charrom
+D OTP EPROM 512 KiBit
+K OTP EPROM 512KiBit
+F http://ww1.microchip.com/downloads/en/DeviceDoc/doc0015.pdf
+$ENDCMP
+#
+$CMP 2364
+D OTP EPROM 512 KiBit
+K OTP EPROM 512KiBit
+F http://ww1.microchip.com/downloads/en/DeviceDoc/doc0015.pdf
+$ENDCMP
+#
+$CMP 64SMemoryExpansionPort
+K TE PCI Express Card Edge Connector
+F https://www.digikey.ca/product-detail/en/5-1734857-1/A136170-ND/7039398/?itemSeq=300399447
+$ENDCMP
+#
+$CMP 6502CPU
+D 8-bit General Purpose Microprocessor, DIP-40
+K 6502 CPU uP
+$ENDCMP
+#
+$CMP 6510CPU
+D 8-bit General Purpose Microprocessor, DIP-40
+K 6502 CPU uP
+$ENDCMP
+#
+$CMP 656X-VIC-I
+D 8-bit General Purpose Microprocessor, DIP-40
+K 6502 CPU uP
+$ENDCMP
+#
+$CMP 656X-VIC-II
+D 8-bit General Purpose Microprocessor, DIP-40
+K 6502 CPU uP
+$ENDCMP
+#
+$CMP 7164S20TPG-28PDIP
+D 8K x 8 HIGH-SPEED CMOS STATIC RAM
+K SRAM MEMORY
+$ENDCMP
+#
+$CMP 74ABT16245B
+D 16-Bit BUS Transceivers, 3-State outputs
+K TTL BUS 3State
+F http://www.ti.com/lit/gpn/sn74LS245
+$ENDCMP
+#
+$CMP 74ABT245PW
+D Octal BUS Transceivers, 3-State outputs
+K TTL BUS 3State
+F http://www.ti.com/lit/gpn/sn74LS245
+$ENDCMP
+#
+$CMP 74F521
+F https://www.digikey.ca/product-detail/en/texas-instruments/SN74F521DW/296-3592-5-ND/373732
+$ENDCMP
+#
+$CMP 74HC245
+D Octal BUS Transceivers, 3-State outputs
+K HCMOS BUS 3State
+F http://www.ti.com/lit/gpn/sn74HC245
+$ENDCMP
+#
+$CMP 8566-VIC-IIe
+D 8-bit Video Processor, DIP-48
+K 8566 8564 CPU uP
+$ENDCMP
+#
+$CMP ADP122_3.3V_LDO_Voltage_Regulator
+D High Accuracy Ultralow IQ, 500mA anyCAP Adjustable Low Dropout Regulator, MSOP-8
+K linear regulator ldo adjustable positive
+F https://www.mouser.ca/datasheet/2/609/ADP122_123-1503483.pdf
+$ENDCMP
+#
+$CMP AS6C6264-28PDIP
+D 8K x 8 HIGH-SPEED CMOS STATIC RAM
+K SRAM MEMORY
+$ENDCMP
+#
+$CMP CY62148GN-45SXI
+D 512K x 8 Low Power CMOS RAM, DIP-32
+K RAM SRAM CMOS MEMORY
+F https://www.alliancememory.com/wp-content/uploads/pdf/AS6C4008.pdf
+$ENDCMP
+#
+$CMP CY62167GE-45ZXI
+D 2M x 8 Low Power CMOS RAM, TSOP-48
+K RAM SRAM CMOS MEMORY ECC
+F https://www.cypress.com/file/139521/download
+$ENDCMP
+#
+$CMP Conn_03x16
+F https://www.digikey.ca/product-detail/en/amphenol-icc-fci/86093488314755V1LF/609-3449-ND/1991861
+$ENDCMP
+#
+$CMP DRAM-4164
+D 2K x 8 HIGH-SPEED CMOS STATIC RAM
+K SRAM MEMORY
+$ENDCMP
+#
+$CMP DRAM-4464
+D 2K x 8 HIGH-SPEED CMOS STATIC RAM
+K SRAM MEMORY
+$ENDCMP
+#
+$CMP IDT6116
+D 2K x 8 HIGH-SPEED CMOS STATIC RAM
+K SRAM MEMORY
+$ENDCMP
+#
+$CMP IS61C1024AL-32TSOP
+D 128K x 8 HIGH-SPEED CMOS STATIC RAM, 12ns, TSOP-32
+K SRAM MEMORY
+F http://www.issi.com/WW/pdf/61-64C5128AL.pdf
+$ENDCMP
+#
+$CMP IS62C256AL-45TLI
+D 32K x 8 LOW POWER CMOS STATIC RAM, 45ns, TSOP I-28
+K SRAM MEMORY
+F https://www.mouser.ca/datasheet/2/198/62-65C256AL-258444.pdf
+$ENDCMP
+#
+$CMP LM117_TO3
+D 1,5A 35V Adjustable Linear Regulator, TO-3
+K Adjustable Voltage Regulator 1,5A Positive
+F http://www.ti.com/lit/ds/symlink/lm317.pdf
+$ENDCMP
+#
+$CMP LM150_TO3
+D 3A 33V Adjustable Linear Regulator, TO-3
+K Adjustable Voltage Regulator 3A Positive
+F http://www.ti.com/lit/ds/symlink/lm350a.pdf
+$ENDCMP
+#
+$CMP LM323K
+D 1.5A 35V Adjustable Linear Regulator, TO-3
+K Adjustable Voltage Regulator 1.5A Positive
+F http://www.ti.com/lit/ds/symlink/lm317.pdf
+$ENDCMP
+#
+$CMP LM350_TO3
+D 3A 33V Adjustable Linear Regulator, TO-3
+K Adjustable Voltage Regulator 3A Positive
+F http://www.ti.com/lit/ds/symlink/lm350a.pdf
+$ENDCMP
+#
+$CMP MOS6526
+D 8-bit General Purpose Microprocessor, DIP-40
+K 6502 CPU uP
+$ENDCMP
+#
+$CMP MOS6581-SID
+D 8-bit General Purpose Microprocessor, DIP-40
+K 6502 CPU uP
+$ENDCMP
+#
+$CMP R_Network08_US_YC358-TType
+D 8 resistor network, star topology, bussed resistors, small US symbol
+K R network star-topology
+F http://www.vishay.com/docs/31509/csc.pdf
+$ENDCMP
+#
+$CMP TXS0104EPW
+D Bidirectional  level-shifting voltage translator, TSSOP-14
+K 4-bit
+F www.ti.com/lit/ds/symlink/txs0104e.pdf
+$ENDCMP
+#
+$CMP Vic20CharRomSocket
+D OTP EPROM 512 KiBit
+K OTP EPROM 512KiBit
+F http://ww1.microchip.com/downloads/en/DeviceDoc/doc0015.pdf
+$ENDCMP
+#
+$CMP W65C02CPU-40DIP
+D 8-bit General Purpose Microprocessor, DIP-40
+K WDC 6502 CPU uP
+$ENDCMP
+#
+$CMP W65C02CPU-44QFP
+D 8-bit General Purpose Microprocessor, DIP-40
+K 6502 CPU uP
+$ENDCMP
+#
+$CMP W65C21PIA-40DIP
+D 8-bit General Purpose Microprocessor, DIP-40
+K 6502 CPU uP
+$ENDCMP
+#
+$CMP W65C21PIA-44PLCC
+D 8-bit General Purpose Microprocessor, DIP-40
+K 6502 CPU uP
+$ENDCMP
+#
+$CMP W65C22VIA-40DIP
+D 8-bit General Purpose Microprocessor, DIP-40
+K 6502 CPU uP
+$ENDCMP
+#
+$CMP W65C22VIA-44QFP
+D 8-bit General Purpose Microprocessor, DIP-40
+K 6502 CPU uP
+$ENDCMP
+#
+$CMP W65C51ACIA-28DIP
+D 8-bit 6551 UART, DIP-28
+K 6502 CPU uP
+$ENDCMP
+#
+$CMP W65C816CPU-40DIP
+D 8-bit General Purpose Microprocessor, DIP-40
+K 6502 CPU uP
+$ENDCMP
+#
+$CMP W65C816CPU-44QFP
+D 8-bit General Purpose Microprocessor, DIP-40
+K 6502 CPU uP
+$ENDCMP
+#
+$CMP XC9536XL_CPLD_Xilinx
+D Xilinx CPLD, Obsolete
+F https://www.mouser.ca/datasheet/2/903/ds058-1595624.pdf
+$ENDCMP
+#
+$CMP Z80CPU-QFP
+D 8-bit General Purpose Microprocessor, DIP-40
+K Z80 CPU uP
+F www.zilog.com/manage_directlink.php?filepath=docs/z80/um0080
+$ENDCMP
+#
+#End Doc Library
