@@ -1,4 +1,4 @@
-Untested.  Will update to confirm working.
+Tested early August 2020.  Works great.
 
 PARTS
 =====================
