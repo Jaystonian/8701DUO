@@ -293,9 +293,9 @@ F 3 "" H 8350 2000 50  0001 C CNN
 	-1   0    0    1   
 $EndComp
 Text Notes 5400 2500 0    50   ~ 0
-NTSC
-Text Notes 5400 2650 0    50   ~ 0
 PAL
+Text Notes 5400 2650 0    50   ~ 0
+NTSC
 Wire Notes Line
 	5350 2200 5900 2200
 Wire Notes Line
@@ -396,7 +396,7 @@ L Device:C_Small C5
 U 1 1 5EF8F630
 P 8550 2750
 F 0 "C5" H 8642 2796 50  0000 L CNN
-F 1 "15p-45p" H 8642 2705 50  0000 L CNN
+F 1 "20p" H 8642 2705 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 8550 2750 50  0001 C CNN
 F 3 "~" H 8550 2750 50  0001 C CNN
 	1    8550 2750
@@ -423,7 +423,7 @@ L Oscillator:IQXO-70 X2
 U 1 1 5EEFB5E2
 P 7900 2550
 F 0 "X2" H 8244 2596 50  0000 L CNN
-F 1 "LFSPXO020648Bulk" H 7950 2800 50  0000 L CNN
+F 1 "LFSPXO021772Bulk" H 7950 2800 50  0000 L CNN
 F 2 "Oscillator:Oscillator_SMD_IQD_IQXO70-4Pin_7.5x5.0mm" H 8575 2225 50  0001 C CNN
 F 3 "http://www.iqdfrequencyproducts.com/products/details/iqxo-70-11-30.pdf" H 7800 2550 50  0001 C CNN
 	1    7900 2550
@@ -434,7 +434,7 @@ L Oscillator:IQXO-70 X1
 U 1 1 5EEFC387
 P 6650 2550
 F 0 "X1" H 6994 2596 50  0000 L CNN
-F 1 "LFSPXO021772Bulk" H 6750 2800 50  0000 L CNN
+F 1 "LFSPXO020648Bulk" H 6750 2800 50  0000 L CNN
 F 2 "Oscillator:Oscillator_SMD_IQD_IQXO70-4Pin_7.5x5.0mm" H 7325 2225 50  0001 C CNN
 F 3 "http://www.iqdfrequencyproducts.com/products/details/iqxo-70-11-30.pdf" H 6550 2550 50  0001 C CNN
 	1    6650 2550
